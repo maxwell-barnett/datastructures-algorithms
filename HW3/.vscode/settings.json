@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.format.settings.url": "/Users/maxwellbarnett/Library/CloudStorage/OneDrive-GeorgiaInstituteofTechnology/Fall 2023/CS 1332/CS1332-checkstyle.xml",
+    "java.debug.settings.onBuildFailureProceed": true
+}
